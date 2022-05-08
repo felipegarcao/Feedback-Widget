@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 
+body {
+  @apply bg-[#09090a] text-zinc-100;
+}
